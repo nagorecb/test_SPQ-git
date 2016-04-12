@@ -1,8 +1,8 @@
 package game;
 
-public class Elfo extends Character {
+public class Elfo2 extends Character {
 
-	public Elfo(WeaponBehaviour w) {
+	public Elfo2(WeaponBehaviour w) {
 		super(w);
 	}
 	
