@@ -2,7 +2,7 @@ package game;
 
 public class Elfo2 extends Character {
 
-	public Elfo2(WeaponBehaviour w) {
+	public Elfo21(WeaponBehaviour w) {
 		super(w);
 	}
 	
