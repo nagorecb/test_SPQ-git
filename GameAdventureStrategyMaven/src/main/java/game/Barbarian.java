@@ -22,6 +22,6 @@ public class Barbarian extends Character {
 
 		logger.info("You are a strong, hulky barbarian!!!.....?");;
 
-		System.out.println("Modified from A");
+		System.out.println("Modified from Aadfasdfdsdfs");
 	}
 }
