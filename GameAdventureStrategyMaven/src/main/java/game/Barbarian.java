@@ -3,6 +3,7 @@ package game;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+// Just created the GUI
 public class Barbarian extends Character {
 	final Logger logger = LoggerFactory.getLogger(Barbarian.class);
 	
